@@ -10,7 +10,7 @@ View details for each pharmacy, including address and phone number
 Get directions to the pharmacy using Leaflet's routing feature
 # Getting Started
 Install the latest version of Node.js
-Clone the repository: git clone https://github.com/your-username/pharmacy-locator.git
+Clone the repository: git clone https://github.com/faouziahamsy/pharmacie-localisation-partie-client-.git
 Navigate to the project directory: cd pharmacy-locator
 Install dependencies: npm install
 Start the development server: npm start
