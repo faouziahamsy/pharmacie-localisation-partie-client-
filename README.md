@@ -22,5 +22,8 @@ Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 # domonstration youtube 
 https://www.youtube.com/watch?v=LsDdkmW8qX4
+# Architecture du projet 
+voici l'architecture partie client 
+![alt text] (https://github.com/faouziahamsy/pharmacie-localisation-partie-client-/blob/main/architecture%20client.jpeg)
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
